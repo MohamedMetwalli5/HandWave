@@ -1,1 +1,1 @@
-# The-Graduation-Project
+# The Graduation Project
