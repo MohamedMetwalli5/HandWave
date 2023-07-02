@@ -29,8 +29,7 @@ To get your GPU card working Properly follow these steps:
 (a) CUDA Toolkit 11.2
 (b) cuDNN 8.1.0
 You need to sign up for the Nvidia developer program (free)
-Extract all folder contents from cudnn you just downloaded
-to `C:/program files/Nvidia GPU computing toolkit/CUDA/v11.0`.
+Extract all folder contents from cudnn you just downloaded to `C:/program files/Nvidia GPU computing toolkit/CUDA/v11.0`.
 6. Install your IDE if you haven’t already done so, you may use `spyder`, `jupyter` notebook or `VSCode`.
 7. Create a conda environment with python = 3.9 `conda create --name tf python=3.9`
 8. Activate the environment in the terminal `conda activate tf`
