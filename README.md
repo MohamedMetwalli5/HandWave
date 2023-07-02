@@ -13,9 +13,9 @@ It provides an efficient, accurate, and accessible means of communicating in ASL
 # Environment Setup
 
 ## IDEs and Editors
-• LabelImg: An open-source Python application that can be installed to help in data preparation to add annotations to the collected images.
-• Anaconda: This enables you to build different virtual environments and it’s easy to deal with.
-• Visual Studio Code (VSCode): The easiest editor to develop the web application and review it using the live server extension.
+- LabelImg: An open-source Python application that can be installed to help in data preparation to add annotations to the collected images.
+- Anaconda: This enables you to build different virtual environments and it’s easy to deal with.
+- Visual Studio Code (VSCode): The easiest editor to develop the web application and review it using the live server extension.
 
 
 
