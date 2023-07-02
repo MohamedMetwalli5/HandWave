@@ -26,8 +26,8 @@ To get your GPU card working Properly follow these steps:
 3. Python 3.8 - 3.11
 4. Install Visual Studio community edition: We installed VS2019.
 5. Install NVIDIA GPU driver, we installed the following:
-   a. CUDA Toolkit 11.2
-   b. cuDNN 8.1.0
+   i. CUDA Toolkit 11.2
+   ii. cuDNN 8.1.0
 You need to sign up for the Nvidia developer program (free)
 Extract all folder contents from cudnn you just downloaded to `C:/program files/Nvidia GPU computing toolkit/CUDA/v11.0`.
 6. Install your IDE if you haven’t already done so, you may use `spyder`, `jupyter notebook` or `VSCode`.
