@@ -67,3 +67,4 @@ We use the LabelImg application to easily draw a box around each hand gesture in
 
 ## Sample Data
 ![Data 1](https://github.com/MohamedMetwalli5/HandWave/blob/main/Sample%20Data/Data%201.png "Data 1")
+![Data 2](https://github.com/MohamedMetwalli5/HandWave/blob/main/Sample%20Data/Data%202.png "Data 2")
