@@ -64,3 +64,6 @@ tf.test.is gpu available(cuda only=False, min cuda compute capability=None)
 We use the LabelImg application to easily draw a box around each hand gesture in the image and give this box the suitable label of the class represented by the gesture, then split the whole data for the training and testing.<br />
 - Training: 90%
 - Testing: 10%
+
+## Sample Data
+![Data 1](https://github.com/MohamedMetwalli5/HandWave/blob/main/Sample%20Data/Data%201.png "Data 1")
