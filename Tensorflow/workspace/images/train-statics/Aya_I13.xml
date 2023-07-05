@@ -1,0 +1,26 @@
+<annotation>
+	<folder>I</folder>
+	<filename>Aya_I13.jpg</filename>
+	<path>F:\term-2\GP\Handwave\Data\I\I13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>301</xmin>
+			<ymin>90</ymin>
+			<xmax>446</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

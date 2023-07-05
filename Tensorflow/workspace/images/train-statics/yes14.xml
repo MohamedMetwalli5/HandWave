@@ -1,0 +1,26 @@
+<annotation>
+	<folder>graduationprojectphotos</folder>
+	<filename>yes14.PNG</filename>
+	<path>E:\LabelImg-Github\RealTimeObjectDetection\Tensorflow\workspace\images\graduationprojectphotos\yes14.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>220</ymin>
+			<xmax>190</xmax>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+</annotation>

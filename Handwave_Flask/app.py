@@ -155,7 +155,7 @@ def generate_frames():
                     category_index,
                     use_normalized_coordinates=True,
                     max_boxes_to_draw=2,
-                    min_score_thresh=.7,
+                    min_score_thresh=.65,
                     agnostic_mode=False)
         
         ret, buffer = cv2.imencode('.jpg', cv2.resize(image_np_with_detections, (800, 600)))

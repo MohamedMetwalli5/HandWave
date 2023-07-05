@@ -1,0 +1,26 @@
+<annotation>
+	<folder>D</folder>
+	<filename>Aya_D15.jpg</filename>
+	<path>F:\term-2\GP\Handwave\Data\D\D15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>D</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>298</xmin>
+			<ymin>252</ymin>
+			<xmax>407</xmax>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+</annotation>

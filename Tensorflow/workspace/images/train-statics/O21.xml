@@ -1,0 +1,26 @@
+<annotation>
+	<folder>graduationprojectphotos</folder>
+	<filename>O21.PNG</filename>
+	<path>E:\LabelImg-Github\RealTimeObjectDetection\Tensorflow\workspace\images\graduationprojectphotos\O21.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>680</width>
+		<height>534</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>O</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>214</ymin>
+			<xmax>338</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>

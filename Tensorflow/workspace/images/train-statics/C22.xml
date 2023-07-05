@@ -1,0 +1,26 @@
+<annotation>
+	<folder>graduationprojectphotos</folder>
+	<filename>C22.PNG</filename>
+	<path>E:\LabelImg-Github\RealTimeObjectDetection\Tensorflow\workspace\images\graduationprojectphotos\C22.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>680</width>
+		<height>534</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>166</ymin>
+			<xmax>357</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>

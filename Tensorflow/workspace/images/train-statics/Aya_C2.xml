@@ -1,0 +1,26 @@
+<annotation>
+	<folder>C</folder>
+	<filename>Aya_C2.jpg</filename>
+	<path>F:\term-2\GP\Handwave\Data\C\C2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>207</ymin>
+			<xmax>395</xmax>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+</annotation>

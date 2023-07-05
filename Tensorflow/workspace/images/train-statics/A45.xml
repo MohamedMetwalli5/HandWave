@@ -1,0 +1,26 @@
+<annotation>
+	<folder>graduationprojectphotos</folder>
+	<filename>A45.PNG</filename>
+	<path>E:\LabelImg-Github\RealTimeObjectDetection\Tensorflow\workspace\images\graduationprojectphotos\A45.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>A</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>179</ymin>
+			<xmax>193</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

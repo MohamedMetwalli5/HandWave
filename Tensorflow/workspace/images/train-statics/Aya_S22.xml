@@ -1,0 +1,26 @@
+<annotation>
+	<folder>S</folder>
+	<filename>Aya_S22.jpg</filename>
+	<path>F:\term-2\GP\Handwave\Data\S\S22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>S</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>404</xmin>
+			<ymin>125</ymin>
+			<xmax>509</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>

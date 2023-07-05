@@ -1,0 +1,26 @@
+<annotation>
+	<folder>graduationprojectphotos</folder>
+	<filename>D24.PNG</filename>
+	<path>E:\LabelImg-Github\RealTimeObjectDetection\Tensorflow\workspace\images\graduationprojectphotos\D24.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>680</width>
+		<height>534</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>D</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>182</ymin>
+			<xmax>269</xmax>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+</annotation>

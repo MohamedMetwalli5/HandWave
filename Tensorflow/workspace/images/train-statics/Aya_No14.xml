@@ -1,0 +1,26 @@
+<annotation>
+	<folder>No</folder>
+	<filename>Aya_No14.jpg</filename>
+	<path>F:\term-2\GP\Handwave\Data\No\No14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>90</ymin>
+			<xmax>260</xmax>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+</annotation>

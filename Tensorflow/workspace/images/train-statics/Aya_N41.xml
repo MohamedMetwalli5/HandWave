@@ -1,0 +1,26 @@
+<annotation>
+	<folder>N</folder>
+	<filename>Aya_N41.jpg</filename>
+	<path>F:\term-2\GP\Handwave\Data\N\N41.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>N</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>200</ymin>
+			<xmax>226</xmax>
+			<ymax>371</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6</folder>
+	<filename>611.jpg</filename>
+	<path>F:\term-2\GP\Handwave\Data\6\611.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>6</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>425</xmin>
+			<ymin>70</ymin>
+			<xmax>558</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>

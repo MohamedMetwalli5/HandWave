@@ -1,0 +1,26 @@
+<annotation>
+	<folder>V</folder>
+	<filename>Aya_V9.jpg</filename>
+	<path>F:\term-2\GP\Handwave\Data\V\V9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>V</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>429</xmin>
+			<ymin>121</ymin>
+			<xmax>505</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>

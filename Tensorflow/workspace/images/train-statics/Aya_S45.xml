@@ -1,0 +1,26 @@
+<annotation>
+	<folder>S</folder>
+	<filename>Aya_S45.jpg</filename>
+	<path>F:\term-2\GP\Handwave\Data\S\S45.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>S</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>411</xmin>
+			<ymin>123</ymin>
+			<xmax>559</xmax>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+</annotation>

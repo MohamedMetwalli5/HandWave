@@ -1,0 +1,26 @@
+<annotation>
+	<folder>I</folder>
+	<filename>I48.jpg</filename>
+	<path>F:\term-2\GP\Handwave\Data\I\I48.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>384</xmin>
+			<ymin>188</ymin>
+			<xmax>549</xmax>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+</annotation>
