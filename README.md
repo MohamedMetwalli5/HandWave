@@ -69,3 +69,7 @@ We use the LabelImg application to easily draw a box around each hand gesture in
 Shown here 2 sample images, each of which has a hand gesture with its corresponding meaning.
 ![Data 1](https://github.com/MohamedMetwalli5/HandWave/blob/main/Sample%20Data/Data%201.png "Data 1")
 ![Data 2](https://github.com/MohamedMetwalli5/HandWave/blob/main/Sample%20Data/Data%202.png "Data 2")
+
+## Conclusion
+- The ASL detection and recognition project presented in this study is a real-time web system that aims to detect and recognize American Sign Language (ASL) gestures from captured frames and display the corresponding text on the captured frame on a web page. The system utilizes computer vision techniques and the transfer learning to accurately identify and classify ASL gestures, with a Mean Average Precision score between 90% - 98%.
+- The project is based on the SSD MobileNet v2 model from the Tensorflow model zoo, which is fine-tuned on a dataset of ASL gestures. The system uses a combination of feature extraction techniques and deep learning algorithms to detect and recognize ASL gestures in real-time accurately. The recognized gestures are then converted into corresponding text and displayed, allowing both deaf and hearing individuals to communicate effectively.
