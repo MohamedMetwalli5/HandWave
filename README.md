@@ -73,3 +73,6 @@ Shown here 2 sample images, each of which has a hand gesture with its correspond
 ## Conclusion
 - The ASL detection and recognition project presented in this study is a real-time web system that aims to detect and recognize American Sign Language (ASL) gestures from captured frames and display the corresponding text on the captured frame on a web page. The system utilizes computer vision techniques and the transfer learning to accurately identify and classify ASL gestures, with a Mean Average Precision score between 90% - 98%.
 - The project is based on the SSD MobileNet v2 model from the Tensorflow model zoo, which is fine-tuned on a dataset of ASL gestures. The system uses a combination of feature extraction techniques and deep learning algorithms to detect and recognize ASL gestures in real-time accurately. The recognized gestures are then converted into corresponding text and displayed, allowing both deaf and hearing individuals to communicate effectively.
+
+## Project Logo
+![HandWave](https://github.com/MohamedMetwalli5/HandWave/blob/main/HandWave%20Logo.png)
